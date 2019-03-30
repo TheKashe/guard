@@ -1,0 +1,12 @@
+Package: guard
+Type: Package
+Title: Provides guard pattern
+Version: 0.1.0
+Author: Jernej Kase
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: A language extionsion which provide guard pattern
+License: BSD-3-Clause
+Encoding: UTF-8
+LazyData: true
+Depends: lisp
+RoxygenNote: 6.0.1

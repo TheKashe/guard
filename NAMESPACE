@@ -1,0 +1,3 @@
+import(lisp)
+exportPattern("^[[:alpha:]]+")
+export("%guarded%")
